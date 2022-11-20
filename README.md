@@ -24,3 +24,5 @@ QnA Maker
 Static Web Apps
 
 Other Azure Technologies : App Services.
+
+Project Demo Link:https://salmon-river-084e0ae00.2.azurestaticapps.net/
